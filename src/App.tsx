@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
 import { Label } from 'office-ui-fabric-react/lib/Label';
 import { DatePicker } from 'office-ui-fabric-react/lib/DatePicker';
